@@ -19,7 +19,7 @@ https://urlshortner-5ape.onrender.com
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/url-shortener.git
+  git clone https://github.com/faizcode24/url-shortener-main/tree/main/url-shortener-main
 ```
 
 Go to the project directory
@@ -51,10 +51,5 @@ To run this project, you will need to add the following environment variables to
 
 
 
-## Documentation
 
-- [Node.js](https://nodejs.org/en/docs/) 
-- [Express.js](https://expressjs.com/)
-- [EJS](https://ejs.co/#docs)
-- [Mongoose](https://mongoosejs.com/docs/guide.html)
 
