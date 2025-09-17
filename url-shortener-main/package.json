@@ -8,15 +8,14 @@
     "start": "node app.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ssahibsingh/url-shortener.git"
+    "type": "git"
   },
-  "author": "Sahib Singh",
+ 
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ssahibsingh/url-shortener/issues"
+    
   },
-  "homepage": "https://github.com/ssahibsingh/url-shortener#readme",
+ 
   "dependencies": {
     "body-parser": "^1.19.2",
     "dotenv": "^16.0.0",
